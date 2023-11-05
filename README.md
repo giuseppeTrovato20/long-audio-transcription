@@ -52,9 +52,7 @@ Feel free to fork the project, submit pull requests, or send suggestions to impr
 
 ## License
 
-Specify your license or if the project is open-source, include a line such as:
-
-"This project is open-source and available under the [MIT License](LICENSE.md)."
+This project is open-source and available under the MIT License.
 
 ## Disclaimer
 
